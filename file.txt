@@ -1,0 +1,1 @@
+{"person": [{"name": "Shefali", "hobbies": "reading", "roll no": "45"}, {"name": "Palak", "hobbies": "Dancing", "roll no": "10"}, {"name": "Babita", "hobbies": "singing", "roll no": "12"}]}
